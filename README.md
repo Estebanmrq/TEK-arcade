@@ -16,8 +16,6 @@
 
 Whether you're a fan of classic games like Pacman, Snake, or Nibbler, **Arcade** is the perfect platform to relive those retro memories, all while enjoying the freedom to choose your preferred graphical interface—be it `nCurses`, `SDL2`, `SFML`, or `Allegro`.
 
----
-
 ## Key Features 🔑
 - **Dynamic Library Integration**: Games and graphic libraries are loaded dynamically, offering flexibility and a plug-and-play experience.
 - **Multiple Graphics Libraries**: Switch between various graphical interfaces on-the-fly, such as `Allegro`, `nCurses`, `SDL2`, and `SFML`.
