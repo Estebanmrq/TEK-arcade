@@ -1,0 +1,12 @@
+# Binary files
+arcade
+*.so
+
+# Object files
+*.o
+
+# Temporary files
+*.log
+
+# Configuration files
+.vscode
